@@ -11,6 +11,12 @@
       "icon": "https://www.svgrepo.com/show/353657/django-icon.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/python/django/nginx.conf",
       "language": "python"
+    },
+    {
+      "slug": "react-static",
+      "icon": "https://www.svgrepo.com/show/452092/react.svg",
+      "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/js/react-static/nginx.conf",
+      "language": "js"
     }
   ]
 }
