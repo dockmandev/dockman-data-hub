@@ -2,14 +2,14 @@
   "data": [
     {
       "slug": "laravel",
-      "icon": "",
-      "path": "",
+      "icon": "https://www.svgrepo.com/show/353985/laravel.svg",
+      "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/php/laravel/nginx.conf",
       "language": "php"
     },
     {
       "slug": "django",
-      "icon": "",
-      "path": "",
+      "icon": "https://www.svgrepo.com/show/353657/django-icon.svg",
+      "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/python/django/nginx.conf",
       "language": "python"
     }
   ]
