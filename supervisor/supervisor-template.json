@@ -5,7 +5,8 @@
       "description": "Supervisor configuration to manage Django, Nginx, Celery, and SSH tunnel services with automatic restarts and logging.",
       "icon": "https://www.svgrepo.com/show/353657/django-icon.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/supervisor/python/django/supervisord.conf",
-      "tags": ["python", "django", "supervisor"]
+      "tags": ["python", "django", "supervisor"],
+      "author": "mostafa6765"
     }
   ]
 }

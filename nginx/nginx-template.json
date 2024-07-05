@@ -5,35 +5,40 @@
       "description": "Optimized Nginx configuration for Laravel applications, ensuring performance and security.",
       "icon": "https://www.svgrepo.com/show/353985/laravel.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/php/laravel/nginx.conf",
-      "tags": "php,laravel"
+      "tags": "php,laravel",
+      "author": "mostafa6765"
     },
     {
       "name": "Django Nginx",
       "description": "Efficient Nginx configuration for Django applications, supporting static and media file serving.",
       "icon": "https://www.svgrepo.com/show/353657/django-icon.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/python/django/nginx.conf",
-      "tags": "python,django"
+      "tags": "python,django",
+      "author": "mostafa6765"
     },
     {
       "name": "React Static Nginx",
       "description": "Nginx configuration for serving static React applications with efficient caching and routing.",
       "icon": "https://www.svgrepo.com/show/452092/react.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/js/react-static/nginx.conf",
-      "tags": "react,react-static"
+      "tags": "react,react-static",
+      "author": "mostafa6765"
     },
     {
       "name": "React Static Nginx",
       "description": "Nginx configuration for serving static React applications with efficient caching and routing.",
       "icon": "https://www.svgrepo.com/show/452092/react.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/js/react-static/nginx.conf",
-      "tags": "react,react-static"
+      "tags": "react,react-static",
+      "author": "mostafa6765"
     },
     {
       "name": "React Static Nginx",
       "description": "Nginx configuration for serving static React applications with efficient caching and routing.",
       "icon": "https://www.svgrepo.com/show/452092/react.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/js/react-static/nginx.conf",
-      "tags": "react,react-static"
+      "tags": "react,react-static",
+      "author": "mostafa6765"
     }
   ]
 }
