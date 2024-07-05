@@ -1,22 +1,25 @@
 {
   "data": [
     {
-      "slug": "laravel",
+      "name": "Laravel Nginx",
+      "description": "Optimized Nginx configuration for Laravel applications, ensuring performance and security.",
       "icon": "https://www.svgrepo.com/show/353985/laravel.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/php/laravel/nginx.conf",
-      "language": "php"
+      "tags": "php,laravel"
     },
     {
-      "slug": "django",
+      "name": "Django Nginx",
+      "description": "Efficient Nginx configuration for Django applications, supporting static and media file serving.",
       "icon": "https://www.svgrepo.com/show/353657/django-icon.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/python/django/nginx.conf",
-      "language": "python"
+      "tags": "python,django"
     },
     {
-      "slug": "react-static",
+      "name": "React Static Nginx",
+      "description": "Nginx configuration for serving static React applications with efficient caching and routing.",
       "icon": "https://www.svgrepo.com/show/452092/react.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/js/react-static/nginx.conf",
-      "language": "js"
+      "tags": "react,react-static"
     }
   ]
 }
