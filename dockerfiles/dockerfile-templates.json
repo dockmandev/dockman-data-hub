@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "name": "Django dockerfile",
+      "description": "Python Dockerfile for Django applications with supervisor and Nginx setup.",
+      "icon": "https://www.svgrepo.com/show/353657/django-icon.svg",
+      "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/dockerfiles/python/django/app.dockerfile",
+      "tags": "python,django,dockerfile"
+    }
+  ]
+}
