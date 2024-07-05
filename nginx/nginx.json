@@ -20,6 +20,20 @@
       "icon": "https://www.svgrepo.com/show/452092/react.svg",
       "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/js/react-static/nginx.conf",
       "tags": "react,react-static"
+    },
+    {
+      "name": "React Static Nginx",
+      "description": "Nginx configuration for serving static React applications with efficient caching and routing.",
+      "icon": "https://www.svgrepo.com/show/452092/react.svg",
+      "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/js/react-static/nginx.conf",
+      "tags": "react,react-static"
+    },
+    {
+      "name": "React Static Nginx",
+      "description": "Nginx configuration for serving static React applications with efficient caching and routing.",
+      "icon": "https://www.svgrepo.com/show/452092/react.svg",
+      "path": "https://raw.githubusercontent.com/dockmandev/dockman-data-hub/main/nginx/js/react-static/nginx.conf",
+      "tags": "react,react-static"
     }
   ]
 }
